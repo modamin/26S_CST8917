@@ -4,11 +4,11 @@
 
 |                  |                                        |
 | ---------------- | -------------------------------------- |
-| **Semester**     | Winter 2026                            |
-| **Release Date** | February 16, 2026 (Week 6)             |
-| **Due Date**     | February 27, 2026 at 11:59 PM (Week 7) |
+| **Semester**     | Spring/Summer 2026                            |
+| **Release Date** | June 12, 2026 (Week 5)             |
+| **Due Date**     | June 28, 2026 at 11:59 PM (Week 7) |
 | **Weight**       | 15% of final grade                     |
-| **Type**         | Group Assignment (3 students)          |
+| **Type**         | Group Assignment (3 or 4 students)          |
 | **Submission**   | Brightspace                            |
 
 ---
