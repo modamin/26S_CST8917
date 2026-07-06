@@ -1,4 +1,4 @@
-# Final Project: Compare & Contrast — Dual Implementation of an Expense Approval Workflow
+# Assignment 2: Compare & Contrast — Dual Implementation of an Expense Approval Workflow
 
 ## CST8917 - Serverless Applications | Spring/Summer 2026
 
@@ -14,7 +14,7 @@ You will build an **expense approval pipeline** twice:
 
 |               |                                                                     |
 | ------------- | ------------------------------------------------------------------- |
-| **Weight**    | 10% of final grade                                                  |
+| **Weight**    | 7.5% of final grade                                                  |
 | **Due Date**  | See Brightspace for exact deadline                                  |
 | **Type**      | Individual                                                          |
 | **AI Policy** | AI tools are permitted with mandatory disclosure (see Deliverables) |
