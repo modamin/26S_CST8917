@@ -1,0 +1,9 @@
+{
+    "azureFunctions.projectSubpath": "demos\\demo1\\part1-http-sql-binding",
+    "azureFunctions.deploySubpath": "demos\\demo1\\part1-http-sql-binding",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen"
+}
