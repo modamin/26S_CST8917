@@ -15,7 +15,7 @@ There are no grades for this exercies, it'll be a group assessment and we will b
 - **Tradeoff awareness** — do you know what your design gives up, and when you'd choose differently?
 - You might not get a chance to present!
  
-## NO AI USE do it from memory!
+## NO AI USE, you can use the documentation. 
 
 ### Deliverables
 
